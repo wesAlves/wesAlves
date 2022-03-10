@@ -5,16 +5,16 @@ I have been a designer for 7+ years and since 2018 I started to stydy about soft
 For now here are the technologies that I am currently studing.
 
 - Python
--- Basics
--- Jupyther
--- Pandas
--- Bokeh
--- Django
+  -- Basics
+  -- Jupyther
+  -- Pandas
+  -- Bokeh
+  -- Django
 
 - JavaScript
--- VanilaJS
--- NodeJS
--- ReactJS
+  -- VanilaJS
+  -- NodeJS
+  -- ReactJS
 
 - HTML5
 - CSS3
