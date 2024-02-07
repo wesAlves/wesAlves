@@ -1,5 +1,3 @@
-## Hello, hello 🖖
-
 Hi, I am Wes Benvindo.
 I have been a designer for more than 8 years and since 2018 I started to study about software development.
 For now here are the technologies that I am currently studying.
